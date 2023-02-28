@@ -1,4 +1,4 @@
 Probando git
-Nombre: Alejandro
+Nombre: Alejandro jr
 Apellido: Burgos
 Edad: 26
